@@ -1,1 +1,1 @@
-<div style="text-align:center"><img src="./spinner.svg" /></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/rasmuslos/rasmuslos/master/spinner.svg" /></div>
