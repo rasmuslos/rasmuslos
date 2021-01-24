@@ -1,1 +1,1 @@
-`Canibalism would solve world hunger & overpopulation`
+Canibalism would solve world hunger & overpopulation
